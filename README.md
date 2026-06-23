@@ -5,7 +5,7 @@
 
 ### 🙋 About Me
 
-- 🎓 Recent Class 12 graduate exploring Engineering & CS
+- 🎓 Exploring Engineering & CSE
 - 💻 Building real projects with HTML, CSS, JS & Python
 - 🤖 Passionate about AI tools and app development
 - 🚀 Currently working on web apps and PWAs
