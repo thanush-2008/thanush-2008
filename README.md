@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Projects
 
-- 🌸 **[VELORA](https://github.com/thanush-2008)** — Daily Habit & Routine Tracker PWA (Android APK)
+- 🌸 **[VELORA](https://velora2026.netlify.app/)** — Daily Habit & Routine Tracker PWA (Android APK)
 - 🎨 **[PROMPT_X](https://prompt-x-2026.netlify.app)** — AI Photo Editing Prompt Library
 
 ---
